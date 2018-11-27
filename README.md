@@ -1,2 +1,2 @@
-# building
+# Building
 Starting phase, work in progress...
